@@ -23,7 +23,7 @@ idea {
 
 
 allprojects {
-    group = "org.example.pattern"
+    group = "pattern"
 
     repositories {
         mavenLocal()

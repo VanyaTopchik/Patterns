@@ -1,4 +1,4 @@
-rootProject.name = "otusJava"
+rootProject.name = "patterns"
 
 pluginManagement {
     val jgitver: String by settings
